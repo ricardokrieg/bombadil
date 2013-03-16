@@ -1,4 +1,4 @@
-bombadil
+Bombadil
 ========
 
-HTML5 game framework
+CoffeeScript Game Framework
